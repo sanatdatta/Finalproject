@@ -1,3 +1,65 @@
 /* =============
     Section 5
 ============= */
+.part3 {
+    display: flex;
+    justify-content: space-around;
+    background: #ffd772;
+    margin-top: 20px;
+
+    padding: 20px;
+}
+
+
+
+.part3 h3 {
+    display: block;
+    font-size: 40px;
+
+    text-align: right;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.part3 h3 span {
+    display: block;
+    font-size: 30px;
+
+
+    text-align: right;
+    margin-top: 20px;
+
+}
+
+
+.img {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+}
+
+.part3 h5.button {
+    display: inline-block;
+    background: orange;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 20px;
+    margin: 0px;
+    margin-top: 400px;
+    margin-left: 50px;
+
+}
+
+
+
+
+
+
+
+
+.button2 {
+    text-align: left;
+}

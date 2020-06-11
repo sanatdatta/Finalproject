@@ -1,3 +1,52 @@
 /* =============
     Section 3
 ============= */
+.app {
+
+    background-color: orange;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.app img {
+    width: 100px;
+
+
+
+}
+
+.app h3 {
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: bottom;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+header ul {
+    font-size: 20px;
+    background-color: orange;
+}
+
+.pin1 {
+    padding-left: 100px;
+}
+
+.pin2 {
+    padding-left: 400px;
+    margin-top: -100px;
+}
+
+.pin3 {
+    padding-left: 800px;
+    margin-top: -100px;
+}
+
+.pin4 {
+    padding-left: 1200px;
+    margin-top: -100px;
+}

@@ -1,3 +1,36 @@
 /* =============
     Section 2
 ============= */
+
+.part1 {
+    background: #ffd772;
+    margin-top: 20px;
+    clear: both;
+}
+
+.part1 h2,
+.part1 img {
+    width: 44%;
+    display: inline-block;
+}
+
+.part1 h2 {
+    font-size: 60px;
+    vertical-align: top;
+    padding: 55px 69px;
+    text-align: center;
+}
+
+.part1 img {
+    font-size: 50px;
+}
+
+@include md {
+    display: block;
+    width: 20%;
+
+}
+
+@include xl {
+    width: 60%;
+}
